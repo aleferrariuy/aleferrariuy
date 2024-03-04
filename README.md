@@ -28,11 +28,15 @@ Puedo decir de mi, que también estoy titulado como Idóneo en Farmacia (MSP Uru
 
 <h2>Mis herramientas favoritas</h2>
 <div align="center">
-<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>
+   <img src="https://github.com/aleferrariuy/my-library-of-icons/blob/main/icons/Nagios/nagios_logo_icon.jpg" title="NagiosCore" alt="NagiosCore" width="40" height="40"/> 
+ 
+   <img src="https://github.com/aleferrariuy/my-library-of-icons/blob/main/icons/NetBox/netbox256.webp" title="NetBox" alt="NetBox" width="40" height="40"/> 
+ 
+   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" title="PowerShell" alt="PowerShell" width="40" height="40"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" title="PowerShell" alt="PowerShell" width="40" height="40"/>
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/yaml/yaml-original.svg" title="YAML" alt="YAML" width="40" height="40"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/yaml/yaml-original.svg" title="YAML" alt="YAML" width="40" height="40"/>
 </div>
 <div align="center">
 NagiosCore || NetBox || LibreNMS || ShellScripting || PowerShell || SNMPwalk || YAML 
