@@ -24,15 +24,21 @@ Puedo decir de mi, que también estoy titulado como Idóneo en Farmacia (MSP Uru
 
 ✔ Colaboración en tareas de SAM (Storage Asset Management)
 
-***
+ 
 
 <h2>Mis herramientas favoritas</h2>
-
 <div align="center">
-NagiosCore || NetBox || LibreNMS || ShellScripting || PowerShell 
+<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" title="PowerShell" alt="PowerShell" width="40" height="40"/>
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/yaml/yaml-original.svg" title="YAML" alt="YAML" width="40" height="40"/>
+</div>
+<div align="center">
+NagiosCore || NetBox || LibreNMS || ShellScripting || PowerShell || SNMPwalk || YAML 
 </div>
 
-***
+ 
 
 <h2>Amo el arte en sus múltiples expresiones. En especial:</h2>
 
