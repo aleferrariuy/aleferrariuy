@@ -21,6 +21,8 @@ Puedo decir de mi, que también estoy titulado como Idóneo en Farmacia (MSP Uru
 
 ✔ Tareas de NMS (Network Monitoring Solutions)
 
+✔ Consultoría de LMS (Learning Management Solutions)
+
 ✔ Tareas básicas de Ciberseguridad
 
 ✔ Colaboración en tareas de SAM (Storage Asset Management)
