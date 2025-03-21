@@ -1,7 +1,6 @@
 ## ¡Hola, siéntete tú, bienvenida/o! 
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandrogabrielferrariespiga/)
-[![](https://img.shields.io/badge/aleferrari.uy-0077B5?style=for-the-badge)](https://aleferrari.uy/)
 
 <p>Hola! Soy Alejandro, nací y vivo en Uruguay 🇺🇾. Profesionalmente me presento desde hace más de 10 años como un Analista Técnico de Soporte TI, desempeñandome en contexto sanitario 🏥 (primer, segundo, y tercer nivel de atención).
 Puedo decir de mi, que también estoy titulado como Idóneo en Farmacia (MSP Uruguay), que me identifico como un filosofo (amo la Filosofía, y la practico), y algo para nada menor: soy padre, de un varon, y una mujer 🙋🏻‍♂️🙋🏼‍♀️.
