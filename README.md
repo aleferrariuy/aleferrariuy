@@ -8,6 +8,7 @@ Welcome to my GitHub profile! I am an IT Support Analyst focused on monitoring, 
 - 🎯 **Digital Transformation**: I am passionate about supporting diagnostic and transformation processes in different areas. My greatest experience is in healthcare, although I have training in other contexts..
 - 📈 **Monitoring**: This is another of my passions, given the importance I place on data as a basis for informed decisions. It led me to be drawn to observability and automation to ensure high availability.
 - 📊 **Data Analysis**: I am acquiring the skills to get the most out of monitoring and observability data.
+- ⚗ **DICOM**: I am currently experimenting with medical imaging (DICOM) needs.
 - 🛠️ **Technology Stack**: Bash, Ansible, NagiosCore, Python, Docker, Kubernetes, and GPT Chat are my go-to tools today.
 - 🎓 I am currently looking for a job, and in the meantime, I continue to study data analysis, AI management, and industrial automation.
 
