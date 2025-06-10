@@ -36,7 +36,7 @@ Welcome to my GitHub profile! I am an IT Support Analyst focused on monitoring, 
 ---
 ## 📈 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aleferrariuy&layout=donut&langs_count=9&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aleferrariuy&layout=donut&langs_count=10&theme=dark)
 
 [GitHub Readme Stats Project](https://github.com/anuraghazra/github-readme-stats/)
 
