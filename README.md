@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Alejandro Gabriel Ferrari Espiga
 
-Welcome to my GitHub profile! I am an IT Support Analyst focused on monitoring, observability, and automation. I have over 10 years of experience in IT management.
+Welcome to my GitHub profile! I'm a Healthcare IT Functional Analyst, specializing in monitoring, observability, and automation. I have 30 years of experience in the healthcare field and 20 years in healthcare IT.
 
 
 ---
