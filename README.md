@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a Healthcare IT Functional Analyst, specializi
 ---
 ## 📈 GitHub Stats
 
-[![aleferrariuy's GitHub stats](https://github-readme-stats.vercel.app/api?username=aleferrariuy)](https://github.com/aleferrariuy/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleferrariuy)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 ## 🌐 Connect with Me
