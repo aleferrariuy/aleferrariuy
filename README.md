@@ -3,7 +3,6 @@
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleferrariuy&layout=compact&langs_count=20&theme=dark&locale=es&hide=Jupyter%20Notebook)](https://github.com/anuraghazra/github-readme-stats)
 ---
-## 🌐 Contacto
 
 #### 💡 “No hay nada más inútil que hacer con gran eficiencia algo que no debería hacerse en absoluto.” – _Peter Drucker_
   
